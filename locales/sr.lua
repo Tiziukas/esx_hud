@@ -1,4 +1,4 @@
-Locales["sr"] = {
+return {
     toggleHud = "Upalite/Ugasite HUD",
     indicatorLeft = "Levi migavac",
     indicatorRight = "Desni migavac",

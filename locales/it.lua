@@ -1,4 +1,4 @@
-Locales["it"] = {
+return {
     toggleHud = "Attiva / disattiva HUD",
     indicatorLeft = "Indicatore sinistro",
     indicatorRight = "Indicatore destro",

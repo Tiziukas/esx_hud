@@ -1,4 +1,4 @@
-Locales["de"] = {
+return {
     toggleHud = "HUD An / Ausschalten",
     indicatorLeft = "Linker Blinker",
     indicatorRight = "Rechter Blinker",

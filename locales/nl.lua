@@ -1,4 +1,4 @@
-Locales["nl"] = {
+return {
     toggleHud = "Zet HUD aan / uit",
     indicatorLeft = "Linker richtingaanwijzer",
     indicatorRight = "Rechter richtingaanwijzer",

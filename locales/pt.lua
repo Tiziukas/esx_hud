@@ -1,4 +1,4 @@
-Locales["pt"] = {
+return {
     toggleHud = "Ligar o HUD, on / off",
     indicatorLeft = "Pisca esquerdo",
     indicatorRight = "Pisca direito",

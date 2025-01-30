@@ -1,4 +1,4 @@
-Locales["fr"] = {
+return {
     toggleHud = "Activer/Désactiver l'hud",
     indicatorLeft = "Clignotant gauche",
     indicatorRight = "Clignotant droit",

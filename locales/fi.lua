@@ -1,4 +1,4 @@
-Locales["fi"] = {
+return {
     toggleHud = "HUD päälle / kiinni",
     indicatorLeft = "Vasen vilkku",
     indicatorRight = "Oikea vilkku",

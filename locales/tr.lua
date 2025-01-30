@@ -1,4 +1,4 @@
-Locales["tr"] = {
+return {
     toggleHud = "HUD'u aç / kapat",
     indicatorLeft = "Sol sinyal",
     indicatorRight = "Sağ sinyal",

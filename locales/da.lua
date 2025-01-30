@@ -1,4 +1,4 @@
-Locales["da"] = {
+return {
     toggleHud = "Slå HUD til/fra",
     indicatorLeft = "Venstre indikator",
     indicatorRight = "Højre indikator",

@@ -1,4 +1,4 @@
-Locales["hu"] = {
+return {
     toggleHud = "Hud ki / be kapcsolása",
     indicatorLeft = "Bal index",
     indicatorRight = "Jobb index",

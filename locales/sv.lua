@@ -1,4 +1,4 @@
-Locales["sv"] = {
+return {
     toggleHud = "Sätt HUD på / av",
     indicatorLeft = "Vänster blinkers",
     indicatorRight = "Höger blinkers",
